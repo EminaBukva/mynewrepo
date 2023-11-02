@@ -1,0 +1,2 @@
+double F
+F=f*2
